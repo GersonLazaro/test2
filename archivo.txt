@@ -9,3 +9,39 @@ Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
 Date:   Fri Nov 4 15:33:42 2016 -0500
 
     Añadi los estilos css en el html
+commit de7f761b017606b4d47f5fb29562242c0b3eb6e0
+Merge: c00f602 05e28b4
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:48:28 2016 -0500
+
+    Merge branch 'azul'
+
+commit 05e28b44ccc43656d3af3782f5f76311dd4a0fea
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:48:08 2016 -0500
+
+    Color blanco en el texto
+
+commit c00f60251b96947456f286389a42beb3f20a09d7
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:46:49 2016 -0500
+
+    Bug corregido de la barra horizontal
+
+commit e7c7303ba23f62bbc0bce96a75dca1379b532785
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:45:53 2016 -0500
+
+    Fondo azul
+
+commit 6a60197f153eb9a2694d5b7b9df1fdeb814ade7f
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:35:16 2016 -0500
+
+    Asigno un titulo
+
+commit 6bf53b3a75c1734bedd712e3c912bb5ceb390f44
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 15:33:42 2016 -0500
+
+    Añadi los estilos css en el html
